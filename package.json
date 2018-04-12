@@ -1,0 +1,22 @@
+{
+  "name": "dapp-develop2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "parity-react-app test",
+    "build": "parity-react-app build",
+    "init": "parity-react-app init",
+    "lint": "parity-react-app lint",
+    "lint:css": "parity-react-app lint-css",
+    "lint:js": "parity-react-app lint-js",
+    "start": "parity-react-app start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parity-react-app": "^0.11.0",
+    "webpack-dev-server": "^2.11.2"
+  }
+}
